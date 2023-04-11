@@ -1,0 +1,47 @@
+#counter{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+
+    margin-right: 100px;
+ 
+}
+
+#increase {
+     transform: translateX(50%);
+   
+}
+
+
+label, input {
+    margin-bottom: 10px;
+}
+
+h1, h3{
+    margin-left: 10px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+.result {
+    text-align: center;
+    font-size: 2rem;
+    color: red
+}
+
+p {
+    font-size: 3rem;
+    color: green;
+    display: inline;
+}
+
+h3{
+    color: red;
+    text-align: center;
+    font-size: 2rem;
+}
