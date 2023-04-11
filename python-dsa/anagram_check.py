@@ -3,7 +3,7 @@
 def check_anagram(s1, s2):
     if len(s1) != len(s2):
         return False
-    
+    # dictionaries has a property we can't use duplicate keys in a dictionary
     d1 = dict()
     d2 = dict()
 
